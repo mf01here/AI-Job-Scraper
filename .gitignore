@@ -1,0 +1,20 @@
+# Virtual Environment
+venv/
+ENV/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment variables & secrets
+.env
+
+# OS metadata
+.DS_Store
+Thumbs.db
+
+# Scraper / runtime outputs
+*.csv
+*.pdf
